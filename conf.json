@@ -1,0 +1,6 @@
+{
+    "dbname": "main.db",
+    "host": "localhost",
+    "port": 1080,
+    "logpath": "/logs/log.txt"
+}
